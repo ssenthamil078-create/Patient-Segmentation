@@ -1,0 +1,6 @@
+KPI,ANOVA_F_Statistic,ANOVA_P_Value,Kruskal_Wallis_H,Kruskal_P_Value,Statistically_Significant
+Annual Net Revenue (INR),9226.28,0.00e+00,23338.81,0.00e+00,Yes (p < 0.001)
+Visit Frequency,13206.62,0.00e+00,21135.09,0.00e+00,Yes (p < 0.001)
+Average Length of Stay (ALOS),46518.83,0.00e+00,28933.74,0.00e+00,Yes (p < 0.001)
+30-Day Readmission Rate,7400.59,0.00e+00,16026.97,0.00e+00,Yes (p < 0.001)
+Seasonality Index,19873.86,0.00e+00,19227.03,0.00e+00,Yes (p < 0.001)
